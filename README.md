@@ -5,5 +5,4 @@
 ``
 - optional
 
-``wicd thunderbird firefore-esr ranger weechat emacs vim
-`
+``wicd thunderbird firefore-esr ranger weechat emacs vim``
